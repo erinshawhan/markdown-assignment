@@ -78,3 +78,7 @@ Sources:
 1. [Five Nights at Freddy's Wiki](https://freddy-fazbears-pizza.fandom.com/wiki/Category:FNAF:_Five_Nights_at_Freddy%27s_Saga)
 2. [Wikipedia](https://en.wikipedia.org/wiki/Five_Nights_at_Freddy%27s)
 3. [IGN](https://www.ign.com/articles/fnaf-games-in-order)
+
+Directory
+* [Home Page](README.md)
+* [Characters](MainCharacters.md)
