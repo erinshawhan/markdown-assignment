@@ -71,7 +71,7 @@ There are many spinoff games as well as other media adaptations (such as the 202
 * Platform(s): Playstation 4, Playstation 5, PC, Xbox One, Xbox Series X/S, Nintendo Switch
 * Genre: Survival
 * Theme: Horror
-* Mode: Single-Player Virtual Reality
+* Mode: Single-Player
 * Chronological Order: 8
 
 Sources: 
