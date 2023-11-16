@@ -22,3 +22,7 @@ Source: [Five Nights at Freddy's Wiki](https://freddy-fazbears-pizza.fandom.com/
 ![Foxy, red fox animatronic with a black eyepatch](https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/7/73/Foxy-Icon.png/revision/latest/scale-to-width-down/200?cb=20220126191918)
 >Foxy is an animatronic fox and discontinued pirate entertainer from Freddy Fazbear's Pizza. He resides in his Pirate Cove, where he first appeared in Five Nights at Freddy's where he becomes fairly active on Night 2.
 Source: [Five Nights at Freddy's Wiki](https://freddy-fazbears-pizza.fandom.com/wiki/Classic_Animatronics)
+
+Directory
+* [Home Page](READMe.md)
+* [Games](Games.md)
