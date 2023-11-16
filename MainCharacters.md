@@ -24,5 +24,5 @@ Source: [Five Nights at Freddy's Wiki](https://freddy-fazbears-pizza.fandom.com/
 Source: [Five Nights at Freddy's Wiki](https://freddy-fazbears-pizza.fandom.com/wiki/Classic_Animatronics)
 
 Directory
-* [Home Page](READMe.md)
+* [Home Page](README.md)
 * [Games](Games.md)
